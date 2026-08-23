@@ -10,7 +10,6 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.font.FontWeight
-import androidx.compose.ui.tooling.preview.Preview
 import crazytrendsuk1.cosmetics.crazytrendscarecart.R
 
 @Composable
@@ -42,14 +41,4 @@ fun CheckoutDialog(
         },
         containerColor = MaterialTheme.colorScheme.surface
     )
-}
-
-@Preview(showBackground = true)
-@Composable
-fun CheckoutDialogPreview() {
-    MaterialTheme {
-        CheckoutDialog(
-            onConfirm = {}
-        )
-    }
 }

@@ -5,7 +5,7 @@
     <string name="mzfcm_price">£%1$.2f</string>
 
     <!-- top bar titles -->
-    <string name="mzfcm_top_bar_home_title">Home/App Title</string>
+    <string name="mzfcm_top_bar_home_title">Crazytrends Care Cart</string>
     <string name="mzfcm_top_bar_cart_title">Cart</string>
     <string name="mzfcm_top_bar_checkout_title">Checkout</string>
     <string name="mzfcm_top_bar_orders_title">Orders</string>
@@ -19,18 +19,23 @@
     <string name="mzfcm_bottom_bar_nav_item_settings_title">Settings</string>
 
     <!-- onboarding screen -->
-    <string name="mzfcm_page_1_title">Strategic Planning</string>
-    <string name="mzfcm_page_2_title">Operational Excellence</string>
-    <string name="mzfcm_page_3_title">Change Management</string>
-    <string name="mzfcm_page_1_description">Comprehensive strategic analysis and planning that aligns your business objectives with market opportunities and organizational capabilities.</string>
-    <string name="mzfcm_page_2_description">Process optimization and operational improvement strategies that enhance efficiency, reduce costs, and drive sustainable performance.</string>
-    <string name="mzfcm_page_3_description">Expert guidance through organizational transformation</string>
+    <string name="mzfcm_page_1_title">Care, beautifully curated</string>
+    <string name="mzfcm_page_2_title">Build your daily ritual</string>
+    <string name="mzfcm_page_3_title">Reserve, then collect</string>
+    <string name="mzfcm_page_1_description">Explore thoughtful skincare, haircare, makeup and body essentials selected for everyday confidence.</string>
+    <string name="mzfcm_page_2_description">Browse by category and discover formulas that fit the way you care for yourself.</string>
+    <string name="mzfcm_page_3_description">Add your favourites, reserve in seconds and collect your order from our store within 24 hours.</string>
     <string name="mzfcm_next_button_title">Next</string>
     <string name="mzfcm_start_button_title">Start</string>
     <string name="mzfcm_skip_button_title">Skip</string>
 
     <!-- home/products screen   -->
     <string name="mzfcm_products_state_empty_primary_text">No products available</string>
+    <string name="mzfcm_category_skincare">Skincare</string>
+    <string name="mzfcm_category_haircare">Haircare</string>
+    <string name="mzfcm_category_body">Body</string>
+    <string name="mzfcm_category_makeup">Makeup</string>
+    <string name="mzfcm_category_fragrance">Fragrance</string>
 
     <!-- product details screen   -->
     <string name="mzfcm_product_details_state_empty_primary_text">No information available for this product</string>
@@ -56,17 +61,17 @@
     <string name="mzfcm_button_confirm_order_label">Confirm Order</string>
 
     <!-- checkout dialog -->
-    <string name="mzfcm_checkout_dialog_title">Thank You for Your Order!</string>
-    <string name="mzfcm_checkout_success_message">Your order has been successfully placed. Please hold on; our team will contact you shortly.</string>
+    <string name="mzfcm_checkout_dialog_title">Your reservation is confirmed</string>
+    <string name="mzfcm_checkout_success_message">Your order number is now in Orders. We will have your products waiting in store for the next 24 hours.</string>
     <string name="mzfcm_checkout_dialog_confirm">Done</string>
 
     <!-- settings screen -->
     <string name="mzfcm_settings_screen_company_label">Company</string>
     <string name="mzfcm_settings_screen_version_label">Version</string>
     <string name="mzfcm_settings_screen_customer_support_label">Customer Support</string>
-    <string name="mzfcm_company_name">Company Name</string>
-    <string name="mzfcm_app_version">1.0.0</string>
-    <string name="mzfcm_customer_support_link">https://website.org/</string>
+    <string name="mzfcm_company_name">CRAZYTRENDSUK-1 LTD</string>
+    <string name="mzfcm_app_version">1.0</string>
+    <string name="mzfcm_customer_support_link">https://crazytrends-uk.shop</string>
 
     <!-- clear cart dialog -->
     <string name="mzfcm_clear_cart_dialog_title">Clear cart?</string>
